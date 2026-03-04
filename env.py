@@ -5,3 +5,6 @@ os.environ.setdefault(
 )
 
 os.environ.setdefault("SECRET_KEY", "1waes@django!project£first")
+
+os.environ.setdefault(
+    "CLOUDINARY_URL", "cloudinary://126738733198155:E8B_FD9EANtcdnk3RiS8D1Itqt4@dtblf2tm2")
